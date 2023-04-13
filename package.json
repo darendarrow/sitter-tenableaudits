@@ -19,7 +19,7 @@
   "dependencies": {
     "diff": "^4.0.2",
     "fstream": "^1.0.12",
-    "minimist": "^1.2.5",
+    "minimist": "^1.2.8",
     "nan": "^2.14.0",
     "node-gyp": "^3.8.0",
     "npm": "^6.14.6",
